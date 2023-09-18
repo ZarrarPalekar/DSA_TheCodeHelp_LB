@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    cout << endl;
     int noOfRows;
 
     cout << "No of rows: ";
@@ -10,6 +11,7 @@ int main()
 
     cout << endl;
 
+    cout << "Pattern: " << endl;
     for (int row = 0; row < noOfRows; row++)
     {
 
